@@ -40,7 +40,7 @@ public class Matrix {
     Matrix curveMat = new Matrix(curveType);
     double[] col = {p0, p1, p2, p3};
     m.add(col);
-
+`
     mult(curveMat);
   }//coefiecient constructor
 
